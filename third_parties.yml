@@ -53,7 +53,6 @@ catalog:
               description: "https://github.com/Microchip-MPLAB-Harmony/wolfssh/blob/master/README.md"
               licenses:
                   - { name: "GNU GENERAL PUBLIC LICENSE v2", path: "LICENSING"}
-                  - { name: "Microchip/WolfSSL EULA", path: "WolfSSL_EULicense_Microchip.md"}
 
             - name: "wolfMQTT"
               parent: "wolfssl"
@@ -61,7 +60,6 @@ catalog:
               description: "https://github.com/Microchip-MPLAB-Harmony/wolfMQTT/blob/master/README.md"
               licenses:
                   - { name: "GNU GENERAL PUBLIC LICENSE v2", path: "LICENSE"}
-                  - { name: "Microchip/WolfSSL EULA", path: "WolfSSL_EULicense_Microchip.md"}
 
             - name: "mbed-os"
               title: "arm Mbed OS"
